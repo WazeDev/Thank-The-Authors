@@ -5,4 +5,4 @@ If you would like to buy any of us a coffee to say "thanks" for any of the work 
 | Author    | Scripts I've authored or regularly work on | Where to buy me a coffee, beer, etc. |
 |-----------|--------------------------------------------|--------------------------------------|
 | JustinS83 |||
-| MapOMatic | Waze Edit Count Monitor, WME ClickSaver, WME Place Harmonizer, WME GIS Layers|https://ko-fi.com/mapomatic|
+| MapOMatic | Waze Edit Count Monitor, WME ClickSaver, WME Place Harmonizer, WME GIS Layers, WME US Government Boundaries |https://ko-fi.com/mapomatic|
