@@ -6,4 +6,4 @@ If you would like to buy any of us a coffee to say "thanks" for any of the work 
 |-----------|--------------------------------------------|--------------------------------------|
 |crazycaveman|||
 | JustinS83 |WME Place Interface Enhancements, Waze Editor Profile Enhancements, WME RA Util, WME BeenThere, WME Open Other Maps, WME Wazebar, WME HN Tool, WazeWrap, Wazeopedia Enhancements, WME Validator, WME Cities Overlay, WME Chat addon, WME Simple Permalink, Communitybot, map.wazedev.com|[ko-fi.com/justinswaze](ko-fi.com/justinswaze)|
-| MapOMatic | Waze Edit Count Monitor, WME ClickSaver, WME Place Harmonizer, WME GIS Layers, WME US Government Boundaries |[ko-fi.com/mapomatic](https://ko-fi.com/mapomatic)|
+| MapOMatic | Waze Edit Count Monitor, WME ClickSaver, WME Place Harmonizer, WME GIS Layers, WME US Government Boundaries, WazeWrap, Google Link Enhancer (in WMEPIE) |[ko-fi.com/mapomatic](https://ko-fi.com/mapomatic)|
