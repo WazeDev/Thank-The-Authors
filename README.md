@@ -6,4 +6,4 @@ If you would like to buy any of us a coffee to say "thanks" for any of the work 
 |-----------|--------------------------------------------|--------------------------------------|
 |crazycaveman|||
 | JustinS83 |||
-| MapOMatic | Waze Edit Count Monitor, WME ClickSaver, WME Place Harmonizer, WME GIS Layers, WME US Government Boundaries |https://ko-fi.com/mapomatic|
+| MapOMatic | Waze Edit Count Monitor, WME ClickSaver, WME Place Harmonizer, WME GIS Layers, WME US Government Boundaries |[ko-fi.com](https://ko-fi.com/mapomatic)|
