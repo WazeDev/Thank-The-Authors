@@ -4,6 +4,7 @@ If you would like to buy any of us a coffee to say "thanks" for any of the work 
 
 | Author    | Projects I've authored or contributed to | Where to buy me a coffee, beer, etc. |
 |-----------|------------------------------------------|--------------------------------------|
+| crazycaveman | WME Form Filler, WME Wide-Angle Lens | [ko-fi.com/crazycaveman](https://ko-fi.com/crazycaveman)|
 | dBsooner | WME URComments-Enhanced, WME GIS Layers, WME Validator Localizations for OK, Waze VEOC Spreadsheets, UR/PUR Reports | [ko-fi.com/dbsooner](https://ko-fi.com/dbsooner)|
 | jangliss | WME QuickHN, WME Place Harmonizer, WME TX DOT Planning, WME Validator, WME Validator Localizations for TX, WME GIS Layers | [ko-fi.com/jonathanangliss](https://ko-fi.com/jonathanangliss)|
 | JustinS83 |WME Place Interface Enhancements, Waze Editor Profile Enhancements, WME RA Util, WME BeenThere, WME Open Other Maps, WME Wazebar, WME HN Tool, WazeWrap, Wazeopedia Enhancements, WME Validator, WME Cities Overlay, WME Chat addon, WME Simple Permalink, WME True Segment Length, WME PL Cleaner, Communitybot, map.wazedev.com|[ko-fi.com/justinswaze](https://ko-fi.com/justinswaze)|
